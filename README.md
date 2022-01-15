@@ -10,15 +10,17 @@ Live: http://schematics-npc.com/ (kalau masih ada)
 
 Live Backup: https://sch-npc-scoreboard-vercel.vercel.app/
 
-Scoreboard Public (Vue.js) (sorry code nya berantakan wkwk, masih belajar juga sebenarnya): https://github.com/Syafiqjos/sch-npc-scoreboard
-
 ## Repository Source
-
-Domjudge Judgehost Bundle: https://github.com/zydhanlinnar11/sch-npc-senior-judgehost
 
 Domjudge Documentation: https://www.domjudge.org/docs/manual/7.3
 
-Backend support: https://github.com/iwandepe/sch-npc-senior-online-judge
+Scoreboard Public (Vue.js) (sorry code nya berantakan wkwk, masih belajar juga sebenernya): https://github.com/Syafiqjos/sch-npc-scoreboard
+
+DMOJ dan Logo Junior: https://github.com/zydhanlinnar11/schematics-npc-online-judge
+
+Domjudge Judgehost Bundle: https://github.com/zydhanlinnar11/sch-npc-senior-judgehost
+
+Domjudge backend support: https://github.com/iwandepe/sch-npc-senior-online-judge
 
 ## Installation (perlu docker)
 
@@ -45,3 +47,11 @@ Config Domjudge fix untuk setiap bahasa: [Config Domjudge](./ConfigDomjudge)
 ![Preview2](./Preview/Preview2.png)
 
 ![Preview1](./Preview/Preview1.png)
+
+# Special Thanks
+- Schematics
+- Tim SC OC
+- Zydhan
+- Rafki
+- Iwan
+- Andika
